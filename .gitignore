@@ -2,3 +2,7 @@ AnimationToPNG.cs.meta
 MyRecorderController.cs.meta
 README.md
 Recorder.cs.meta
+.gitignore
+.idea/
+.idea/*
+
