@@ -3,6 +3,7 @@ MyRecorderController.cs.meta
 README.md
 Recorder.cs.meta
 .gitignore
-.idea/
+/.idea/
 .idea/*
+/.git
 
